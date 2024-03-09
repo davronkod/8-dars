@@ -1153,12 +1153,15 @@ hr {
     margin-left: 750px;
     margin-top: -340px;
 }
-.mnb{
+
+.mnb {
     width: 128px;
-height: 40px;
-border-radius: 4px;
-border: 2px;
-border: 2px solid #3C4043;
-background-color: transparent;
-margin-left: 750px;margin-top: 20px;
+    height: 40px;
+    border-radius: 4px;
+    border: 2px;
+    border: 2px solid #3C4043;
+    background-color: transparent;
+    margin-left: 750px;
+    margin-top: 20px;
+    cursor: pointer;
 }
