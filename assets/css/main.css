@@ -1165,3 +1165,391 @@ hr {
     margin-top: 20px;
     cursor: pointer;
 }
+
+.laq {
+    width: 48px;
+    height: 48px;
+    padding: 4px, 4px, 4px, 4.01px;
+    margin-top: 470px;
+    margin-left: 640px;
+}
+
+.qaz {
+    width: 580px;
+    height: 80px;
+    font-family: Roboto;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 40px;
+    letter-spacing: 0.5px;
+    text-align: center;
+    margin-left: 370px;
+    margin-top: 19px;
+}
+
+.btm {
+    width: 174px;
+    height: 24px;
+    border-radius: 4px;
+    border: 2px;
+    border: 2px solid #5F6368;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 580px;
+    margin-top: 150px;
+    cursor: pointer;
+}
+
+.keepa {
+    width: 160px;
+    height: 20px;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+    color: #1967D2;
+    margin-left: 590px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+.asd {
+    width: 1181px;
+    height: 80px;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 70px;
+    margin-top: 100px;
+}
+
+.q2 {
+    width: 107px;
+    height: 22px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 900px;
+    margin-top: 100px;
+}
+
+.q3 {
+    width: 107px;
+    height: 22px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 898px;
+    margin-top: 20px;
+}
+
+.vba {
+    cursor: pointer;
+}
+
+.q4 {
+    width: 129px;
+    height: 22px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 897px;
+    margin-top: 20px;
+}
+
+.q5 {
+    width: 129px;
+    height: 22px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 897px;
+    margin-top: 20px;
+}
+
+.q6 {
+    width: 129px;
+    height: 22px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 897px;
+    margin-top: 20px;
+}
+
+.q7 {
+    width: 129px;
+    height: 22px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 897px;
+    margin-top: 20px;
+}
+
+.q8 {
+    width: 129px;
+    height: 22px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 897px;
+    margin-top: 20px;
+}
+
+.mza {
+    width: 129px;
+    height: 22px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 1170px;
+    margin-top: -275px;
+}
+
+.mazs {
+    width: 129px;
+    height: 22px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 1170px;
+    margin-top: 20px;
+}
+
+.la {
+    width: 129px;
+    height: 22px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 1170px;
+    margin-top: 20px;
+}
+
+.vza {
+    width: 129px;
+    height: 22px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 1170px;
+    margin-top: 20px;
+}
+
+.qazx {
+    width: 129px;
+    height: 22px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 1170px;
+    margin-top: 20px;
+}
+
+.qawe {
+    width: 129px;
+    height: 22px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 1170px;
+    margin-top: 20px;
+}
+
+.dia {
+    width: 129px;
+    height: 22px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 1170px;
+    margin-top: 20px;
+}
+
+.gozal {
+    width: 129px;
+    height: 22px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 1170px;
+    margin-top: 20px;
+}
+
+.azxc {
+    width: 129px;
+    height: 22px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 1170px;
+    margin-top: 20px;
+}
+
+.bzas {
+    width: 129px;
+    height: 22px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 1170px;
+    margin-top: 20px;
+}
+
+.qasd {
+    margin-left: 100px;
+}
+
+.vadas {
+    position: absolute;
+    display: flex;
+    gap: 15px;
+    margin-top: 110px;
+}
+
+.vba {
+    margin-top: 110px;
+    margin-left: 550px;
+}
+
+.vbza {
+    width: 68px;
+    height: 16px;
+    font-family: Arial;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 590px;
+    margin-top: -20px;
+}
+
+.bvt {
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 36px;
+    height: 16px;
+    margin-left: 690px;
+    margin-top: -16px;
+}
+
+.laz {
+    width: 180px;
+    height: 16px;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 760px;
+    margin-top: -16px;
+}
+
+.bmt {
+    width: 180px;
+    height: 16px;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 940px;
+    margin-top: -16px;
+}
+
+.azc {
+    width: 180px;
+    height: 16px;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 1030px;
+    margin-top: -16px;
+}
+
+.yuq {
+    width: 180px;
+    height: 16px;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 1140px;
+    margin-top: -16px;
+}
